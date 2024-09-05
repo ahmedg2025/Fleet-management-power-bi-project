@@ -5,21 +5,21 @@ This Power BI project focuses on fleet management analytics, providing comprehen
 ## Key Metrics
 The project includes the following key performance indicators (KPIs):
 
--Gross Revenue
--Quantity of Deliveries
--Weight (tons)
--Goods Value
--Total Costs
--Cost per Kilometer
--Cost per Ton
--Quantity of Trucks Used
--Fixed Costs & Percentage
--Variable Costs
--Daily Costs
--Financial Results
--Kilometers Travelled
--ATP (Average Track Price)
--Gross Margin Percentage (GM%)
+1. Gross Revenue
+2. Quantity of Deliveries
+3. Weight (tons)
+4. Goods Value
+5. Total Costs
+6. Cost per Kilometer
+7. Cost per Ton
+8. Quantity of Trucks Used
+9. Fixed Costs & Percentage
+10. Variable Costs
+11. Daily Costs
+12. Financial Results
+13. Kilometers Travelled
+14. ATP (Average Track Price)
+15. Gross Margin Percentage (GM%)
 
 ## Features
 
